@@ -1,5 +1,10 @@
 # **Darli Protocol**
+> A Stable Coin Creator
+
+<p align="center">
 <image src="https://raw.githubusercontent.com/darlilabs/.github/refs/heads/main/asset/darli-github.png" width = "150">
+</p>
+
 <!--
 **Here are some ideas to get you started:**
 
